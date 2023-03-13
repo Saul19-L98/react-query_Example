@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "description": "mouse gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "description": "keyboard gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "headphone",
+      "description": "headphone gaming",
+      "price": 1000,
+      "inStock": false
+    },
+    {
+      "name": "Modern 3BR Apartment In FL",
+      "description": "agdafdfafdafsdfasdfdsafasfasdfasdfasdfsdaf",
+      "price": "130",
+      "inStock": true,
+      "id": 0.10750608887803925
+    },
+    {
+      "name": "Modern Warfare",
+      "description": "agdafdfafdafsdfasdfdsafasfasdfasdfasdfsdaf",
+      "price": "70",
+      "inStock": true,
+      "id": 0.9372036796357699
+    }
+  ]
+}
